@@ -1,0 +1,51 @@
+The GPSOSv1 License
+
+The General Public SemiOpen Source Ver.1 License (GPSOSv1)
+
+GPSOS License Version 1;
+Released 22nd June, 2022
+
+The License Foundation Notice;
+© Copyright 2022 - The GPSOS Foundation (foundation.gpsos.ga)
+
+The FILE Holder's License Notice;
+© Copyright Year - Holder's Name
+
+The License Applicant's Oauth;
+Me, Holder's Name,
+I have read The GPSOSv1 License and I (Agree/Don't Agree) to the following terms;
+
+1. SemiOpen Source Definition;
+Is defined as SemiOpen Source for any DIGITAL "FILE", Media, Software, etc, which counts with fewer Open Source terms aswell less Closed Source terms, whereas the SemiOpen meaning is used to bridge both at once.
+
+2. Licensed Allowed Traits;
+a. The FILE is open to be used for any commercial usages.
+b. The FILE may be distributed without any prior authorisation.
+c. The FILE's source shall be kept open for any needable purposes.
+d. The FILE shall be allowed to be used privately, by anything.
+
+3. Licensed Forbidden Traits;
+a. the FILE musn't be modified in any case and be kept fully intact.
+b. The FILE musn't be monetised and profit shall be always null.
+c. The FILE shall not be modified under any kind of circumstances.
+d. Nobody except the rightfull holder of the FILE can patent or repatent.
+
+4. Appliable License Requirals;
+The holder of the FILE, who is using The GPSOSv1 License...
+a. Must abide to every single term stated on this license, and explicitly agree to them.
+b. Incorporate the license and its copyright notices stated here into the correspondant FILE.
+c. Fill a license notice made for the correspondant FILE holder.
+
+5. Licensed Limited Oauths;
+a. Trademark: This FILE is not elegible for trademark registration, as it shall be public, and never exploitable.
+b. Warranty: There is no warranty to this FILE to the extent permitted by appliable law, users assume any risks.
+c. Liability: In any incident, users are responsible for the posible damages caused by lack of ability to use the FILE.
+d. DMCA: This license has been copyright protected by the DMCA and shielded from any unwanted steal or false claim.
+
+License's Addendum;
+The GPSOSv1 License
+© Copyright 2022
+
+DMCA Claimed At;
+foundation.gpsos.ga
+[DMCA|PROTECTED]
