@@ -1,5 +1,5 @@
 # The GPSOS Foundation
-Our official repository.
+Our official SemiOpen repository.
 
 # <sub> The "SemiOpen" Source </sub>
 A forgotten revolution by many.
