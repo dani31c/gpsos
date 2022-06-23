@@ -10,3 +10,7 @@ A forgotten revolution by many.
 What is the main purpose of this?
 
 <img src="https://i.postimg.cc/TK92GdhD/Closed-semi-open-and-open-innovation-framework-Source-Adapted-from-Hirsch-Kreinsen.png" alt="SemiOpen Concept" title="SemiOpen Concept" />
+
+# <sub> GPSOS' First Initiative </sub>
+The GPSOSv1 License, time to start stuff.
+https://foundation.gpsos.ga/licenses/gpsosv1
